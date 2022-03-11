@@ -9,10 +9,8 @@ export class PokedexService {
   listPokemons: Pokemon[] = new Array<Pokemon>();
 
   constructor() {
-    this.listPokemons.push(new Pokemon (1,"","","",""),
-    new Pokemon(2,"","","",""),
-    new Pokemon(3,"","","","")
+   
 
-    )
+    
    }
-}
+ 
